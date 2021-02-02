@@ -9,7 +9,10 @@
 ![image](https://github.com/wangyuhsin/data_visualization/blob/main/demo%20img/dashboard.png)
 
 ## *[line plots](https://github.com/wangyuhsin/data_visualization/tree/main/line%20plots)*
-- Using Python library Bokeh to create an interactive line plot with a select widget and callback function
+- Using Python library Bokeh to create an interactive line plot with legend:
+![image](https://github.com/wangyuhsin/data_visualization/blob/main/demo%20img/interactive_line_plot.png)
+
+- Using Python library Bokeh to create an interactive line plot with a select widget and callback function:
 ![image](https://github.com/wangyuhsin/data_visualization/blob/main/demo%20img/line_plot_callback.png)
 
 ## *[wordcloud](https://github.com/wangyuhsin/data_visualization/tree/main/wordcloud)*
