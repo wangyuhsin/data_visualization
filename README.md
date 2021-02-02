@@ -5,7 +5,7 @@
 ![image](https://github.com/wangyuhsin/data_visualization/blob/main/demo%20img/map.png)
 
 ## *[interactive dashboard](https://github.com/wangyuhsin/data_visualization/tree/main/interactive%20dashboard)*
-- Using Python library Bokeh to create a interactive dashboard:
+- Using Python library Bokeh to create an interactive dashboard:
 ![image](https://github.com/wangyuhsin/data_visualization/blob/main/demo%20img/dashboard.png)
 
 ## *[wordcloud](https://github.com/wangyuhsin/data_visualization/tree/main/wordcloud)*
